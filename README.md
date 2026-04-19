@@ -1,4 +1,4 @@
-#  File Integrity Monitor (FIM) - Blue Team Lab
+#  File Integrity Monitor (FIM)
 
 ##  Description
 This project focuses on the development of a robust **File Integrity Monitor (FIM)** using PowerShell and SHA-256 hashing. The tool is designed to monitor critical directories in real-time, detecting unauthorized file modifications, creations, and deletions. This lab simulates the core functionality of a **HIDS (Host-based Intrusion Detection System)**, a fundamental requirement for security compliance frameworks such as PCI DSS and NIST.
